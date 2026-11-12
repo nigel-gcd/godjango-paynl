@@ -1,0 +1,62 @@
+module github.com/Nigel2392/go-django/contrib/paynl
+
+go 1.27.4
+
+require (
+	github.com/Nigel2392/cache v1.0.4
+	github.com/Nigel2392/go-django v1.7.5-0.20261112133417-bee65361d7ce
+	github.com/Nigel2392/go-django/queries v1.7.5-0.20261112133417-bee65361d7ce
+	github.com/Nigel2392/go-signals v1.1.9
+	github.com/Nigel2392/goldcrest v1.0.7
+	github.com/Nigel2392/mux v1.6.1
+	github.com/elliotchance/orderedmap/v2 v2.7.0
+	github.com/justinas/nosurf v1.2.0
+	github.com/shopspring/decimal v1.4.0
+)
+
+require (
+	filippo.io/edwards25519 v1.1.1 // indirect
+	github.com/Nigel2392/errors v1.0.4 // indirect
+	github.com/Nigel2392/go-telepath v1.4.3 // indirect
+	github.com/Nigel2392/tags v1.0.0 // indirect
+	github.com/Nigel2392/versatile v1.0.7 // indirect
+	github.com/PuerkitoBio/goquery v1.10.3 // indirect
+	github.com/a-h/templ v0.3.1020 // indirect
+	github.com/alexedwards/scs/v2 v2.9.0 // indirect
+	github.com/andybalholm/cascadia v1.3.3 // indirect
+	github.com/barkimedes/go-deepcopy v0.0.0-20220514131651-17c30cfc62df // indirect
+	github.com/casbin/govaluate v1.10.0 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
+	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
+	github.com/gertd/go-pluralize v0.2.1 // indirect
+	github.com/go-sql-driver/mysql v1.9.3 // indirect
+	github.com/go4org/hashtriemap v0.0.0-20260925222741-44e5305f85d9 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
+	github.com/google/uuid v1.6.0 // indirect
+	github.com/gosimple/slug v1.15.0 // indirect
+	github.com/gosimple/unidecode v1.0.1 // indirect
+	github.com/jackc/pgpassfile v1.0.0 // indirect
+	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
+	github.com/jackc/pgx/v5 v5.9.1 // indirect
+	github.com/jackc/puddle/v2 v2.2.2 // indirect
+	github.com/jmoiron/sqlx v1.4.0 // indirect
+	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible // indirect
+	github.com/mattn/go-sqlite3 v1.14.32 // indirect
+	github.com/oklog/ulid/v2 v2.1.1 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
+	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
+	github.com/qdm12/reprint v0.0.0-20200326205758-722754a53494 // indirect
+	github.com/russross/blackfriday/v2 v2.1.0 // indirect
+	github.com/stretchr/testify v1.11.1 // indirect
+	github.com/urfave/cli/v2 v2.27.7 // indirect
+	github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342 // indirect
+	golang.org/x/crypto v0.55.0 // indirect
+	golang.org/x/exp v0.0.0-20260824195058-e88cd73687aa // indirect
+	golang.org/x/net v0.58.0 // indirect
+	golang.org/x/oauth2 v0.36.0 // indirect
+	golang.org/x/sync v0.22.0 // indirect
+	golang.org/x/sys v0.47.0 // indirect
+	golang.org/x/term v0.45.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
